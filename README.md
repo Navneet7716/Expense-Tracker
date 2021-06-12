@@ -1,6 +1,6 @@
 # Expense Tracker By Navneet Kumar Singh
 
-A new Flutter project.
+A new Flutter app.
 
 ## Getting Started
 
