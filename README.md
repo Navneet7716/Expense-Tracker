@@ -1,4 +1,4 @@
-# lesson2
+# Expense Tracker By Navneet Kumar Singh
 
 A new Flutter project.
 
